@@ -28,7 +28,7 @@ export default function Login() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-tr from-blue-400 to-purple-600">
       <div className="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
-        <h2 className="text-3xl font-bold mb-6 text-center text-gray-800 ">CheckSlip With API</h2>
+        <h2 className="text-3xl font-bold mb-6 text-center text-gray-800 ">VerifySlip With API</h2>
         {error && <div className="text-red-500 mb-4">{error}</div>}
         <form onSubmit={handleSubmit} className="space-y-5">
           <input

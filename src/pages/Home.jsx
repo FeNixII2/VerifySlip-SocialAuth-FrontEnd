@@ -35,7 +35,7 @@ export default function Home() {
     <>
       <nav className="bg-gradient-to-r from-blue-700 via-blue-600 to-blue-700 text-white px-6 py-4 flex items-center justify-between flex-wrap shadow-lg sticky top-0 z-50">
         <div className="flex items-center flex-shrink-0 mr-6 cursor-pointer select-none">
-          <span className="font-extrabold text-2xl tracking-wide">CheckSlip With API</span>
+          <span className="font-extrabold text-2xl tracking-wide">VerifySlip With API</span>
         </div>
 
         <div className="block lg:hidden">
